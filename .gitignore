@@ -3,6 +3,9 @@ __pycache__/
 *.pyc
 .env
 .env.*
+backend/.venv/
+.pytest_cache/
+.mypy_cache/
 
 # Databases
 *.sqlite3
